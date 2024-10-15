@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.PlayerDemo" parent="Theme.AppCompat.DayNight.NoActionBar" />
+</resources>
